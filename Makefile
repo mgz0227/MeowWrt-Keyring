@@ -12,7 +12,7 @@ define Package/meowwrt-keyring
 endef
 
 define Package/meowwrt-keyring/description
-  Install MeowWrt APK public key into /etc/apk/keys.
+  Install MeowWrt APK public key.
 endef
 
 Build/Compile=
